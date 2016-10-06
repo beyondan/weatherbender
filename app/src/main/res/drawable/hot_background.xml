@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:id="@+id/selected"
+    android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/hot_frame0" android:duration="100" />
+    <item android:drawable="@drawable/hot_frame1" android:duration="100" />
+    <item android:drawable="@drawable/hot_frame2" android:duration="100" />
+    <item android:drawable="@drawable/hot_frame3" android:duration="100" />
+    <item android:drawable="@drawable/hot_frame4" android:duration="100" />
+    <item android:drawable="@drawable/hot_frame5" android:duration="100" />
+    <item android:drawable="@drawable/hot_frame6" android:duration="100" />
+    <item android:drawable="@drawable/hot_frame7" android:duration="100" />
+</animation-list>

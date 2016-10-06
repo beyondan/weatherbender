@@ -26,7 +26,7 @@
         </android.support.v7.widget.Toolbar>
 
         <TextView
-            android:text="TextView"
+            android:text="ambient temperature: "
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/ambient_temperature"
@@ -42,7 +42,7 @@
     </android.support.design.widget.AppBarLayout>
 
     <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab"
+        android:id="@+id/unit_converter"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="end|bottom"

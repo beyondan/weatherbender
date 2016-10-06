@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\mine\Android\WeatherBender\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\mine\Android\WeatherBender\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_cbdf5c2f08fd805cb6ad77429712890347c5dc1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mine\Android\WeatherBender\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\mine\Android\WeatherBender\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_8357242747ff2673f51ae11e50e38f96f4715f85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mine\Android\WeatherBender\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\mine\Android\WeatherBender\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_b46d52ca956e90980af178fd4967fcebd7c7e098.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\mine\Android\WeatherBender\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_82b3262d4700c2be5ec69ef7b548930f4b79e4a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mine\Android\WeatherBender\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\mine\Android\WeatherBender\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f5f451e62c88695b668b91ef8cf95bba26e238e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mine\Android\WeatherBender\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\mine\Android\WeatherBender\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8493830862153b4fa9d00c7dcd6fe73a6dcbe849.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mine\Android\WeatherBender\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\mine\Android\WeatherBender\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_fb5d090e42534eecfb6d4e3d595c55ea49e8bad0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mine\Android\WeatherBender\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\mine\Android\WeatherBender\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_5a685d9333fc6fb0ada5bb8d24445e8ea6dcd6d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mine\Android\WeatherBender\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\mine\Android\WeatherBender\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_ae557b4c5df07efc31691ffdec5291b0bd677328.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mine\Android\WeatherBender\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\mine\Android\WeatherBender\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a4561d0c4c6b92aa11a4bbe03929269a181155f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mine\Android\WeatherBender\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\mine\Android\WeatherBender\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_effa5f570865d771d8aad93b83052b6d4d964b0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mine\Android\WeatherBender\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\mine\Android\WeatherBender\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6442f31657b6371e2060d60a42e975a5d0e3736a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mine\Android\WeatherBender\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\mine\Android\WeatherBender\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_acea139216e0b588eed83c47bee3f17be39c2fae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mine\Android\WeatherBender\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\mine\Android\WeatherBender\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_4b4c0d2736176cdf9568c56027ff90206e0b2aa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mine\Android\WeatherBender\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\mine\Android\WeatherBender\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_00e55b3e65d188c69e96cb7e91e3022d74fbcbbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mine\Android\WeatherBender\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="E:\mine\Android\WeatherBender\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.0.0_08cd9dfd1530e45ff421382f70ff8c0ded91b390.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mine\Android\WeatherBender\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\mine\Android\WeatherBender\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_6d33c01635a0600d1c5d68325acea29bf4a02f83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mine\Android\WeatherBender\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\mine\Android\WeatherBender\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_d56c5c329cd4be5082903931cf52fb23abc1bd6d.jar" />
+    </item>
+
+</items>
